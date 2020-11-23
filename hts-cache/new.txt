@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:15:10	2382/2382	---M--	404	error ('Not%20Found')	text/html	date:Mon,%2023%20Nov%202020%2016:15:09%20GMT	http://lackytoken.glitch.me/robots.txt		(from )
+19:15:11	2513/2513	---M--	200	added ('OK')	text/html	etag:%22e5c6b49cc21c0990e2654e10ac7ccc18%22	http://lackytoken.glitch.me/	C:/Users/Ev/Desktop/Site/Token%20Geneator/lackytoken.glitch.me/index.html	(from )
+19:15:11	1890/1890	---M--	200	added ('OK')	application/javascript	etag:%2274608e709cbcce9d1f69a0ed44ebf71b%22	http://lackytoken.glitch.me/main.js	C:/Users/Ev/Desktop/Site/Token%20Geneator/lackytoken.glitch.me/main.js	(from http://lackytoken.glitch.me/)
